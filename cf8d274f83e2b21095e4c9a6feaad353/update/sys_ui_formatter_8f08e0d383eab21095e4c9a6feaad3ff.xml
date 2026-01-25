@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>process_flow.xml</formatter>
+        <name>Process Flow</name>
+        <seismic_component/>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-25 04:53:20</sys_created_on>
+        <sys_id>8f08e0d383eab21095e4c9a6feaad3ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Flow</sys_name>
+        <sys_package display_value="Social Media Management" source="x_1792991_social_0">cf8d274f83e2b21095e4c9a6feaad353</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">cf8d274f83e2b21095e4c9a6feaad353</sys_scope>
+        <sys_update_name>sys_ui_formatter_8f08e0d383eab21095e4c9a6feaad3ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-25 04:53:20</sys_updated_on>
+        <table>x_1792991_social_0_post</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>

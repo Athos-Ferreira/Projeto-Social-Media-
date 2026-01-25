@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="New Social Media Post">7c46885383e6b21095e4c9a6feaad35a</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-25 05:55:26</sys_created_on>
+        <sys_id>7446b053836eb21095e4c9a6feaad39f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Social Media Post.Bloqueio geral</sys_name>
+        <sys_package display_value="Social Media Management" source="x_1792991_social_0">cf8d274f83e2b21095e4c9a6feaad353</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">cf8d274f83e2b21095e4c9a6feaad353</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_7446b053836eb21095e4c9a6feaad39f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-25 05:55:26</sys_updated_on>
+        <user_criteria display_value="Bloqueio geral">4226fc13836eb21095e4c9a6feaad35d</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Management">cf8d274f83e2b21095e4c9a6feaad353</application>
+        <file_path/>
+        <instance_id>6ca9bc6beb0196905a2dfceacad0cd59</instance_id>
+        <instance_name>dev289445</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_7446b053836eb21095e4c9a6feaad39f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="New Social Media Post">7c46885383e6b21095e4c9a6feaad35a</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-25 05:55:26</sys_created_on><sys_id>7446b053836eb21095e4c9a6feaad39f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Social Media Post.Bloqueio geral</sys_name><sys_package display_value="Social Media Management" source="x_1792991_social_0">cf8d274f83e2b21095e4c9a6feaad353</sys_package><sys_policy/><sys_scope display_value="Social Media Management">cf8d274f83e2b21095e4c9a6feaad353</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_7446b053836eb21095e4c9a6feaad39f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-25 05:55:26</sys_updated_on><user_criteria display_value="Bloqueio geral">4226fc13836eb21095e4c9a6feaad35d</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>-48425158</payload_hash>
+        <record_name>New Social Media Post.Bloqueio geral</record_name>
+        <reverted_from/>
+        <source>5f8d274f83e2b21095e4c9a6feaad35c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-25 05:55:26</sys_created_on>
+        <sys_id>3c46b053836eb21095e4c9a6feaad3a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bf3b8b29e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-25 05:55:26</sys_updated_on>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>3846b053f86eb210b14b1fde687919a4</update_guid>
+        <update_guid_history>3846b053f86eb210b14b1fde687919a4:-48425158</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New Social Media Post.Bloqueio geral">02763c53836eb21095e4c9a6feaad34f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-25 05:56:20</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>00c2333d4a3d4bd08c5b6c303ad5dc40</sys_id>
+        <sys_metadata>7446b053836eb21095e4c9a6feaad39f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Social Media Post.Bloqueio geral</sys_name>
+        <sys_package display_value="Social Media Management" source="x_1792991_social_0">cf8d274f83e2b21095e4c9a6feaad353</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">cf8d274f83e2b21095e4c9a6feaad353</sys_scope>
+        <sys_scope_delete display_value="">6a8d049e7a514b5cbbb7b76e789c4290</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_7446b053836eb21095e4c9a6feaad39f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_7446b053836eb21095e4c9a6feaad39f">3c46b053836eb21095e4c9a6feaad3a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-25 05:56:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
